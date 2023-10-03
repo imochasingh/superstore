@@ -7,7 +7,7 @@ import sql
 
 # Adjust the width of the Streamlit page
 st.set_page_config(
-    page_title="Use Pygwalker In Streamlit",
+    page_title=":bar_chaar: Raj's Superstore Analysis by Pygwalker ",
     layout="wide"
 )
  
