@@ -9,7 +9,7 @@ st.set_page_config(page_title="Usage Insights app", page_icon="🌀", layout="ce
 for key in st.session_state:
     st.session_state[key] = st.session_state[key]
 
-st.title("Welcome to the Usage Insights app!")
+st.title("Welcome to the Raj's Superstore analysis app!")
 st.sidebar.info("Choose a page!")
 st.markdown(
     """
