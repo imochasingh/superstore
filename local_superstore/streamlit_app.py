@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title="Usage Insights app", page_icon="🌀", layout="centered")
+st.set_page_config(page_title="Raj's Superstore", page_icon="🌀", layout="centered")
 
 
 # gui.icon("🌀")
