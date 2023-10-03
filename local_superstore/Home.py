@@ -38,7 +38,7 @@ with st.container():
     with r1_c1:
         st.header("Welcome to the Raj's Superstore analysis app!")
         st.write("##")
-      st.markdown(
+        st.markdown(
     """
 This is a simple app to show the features of streamlit.
 It is using snowflake as the datasource 
