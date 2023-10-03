@@ -1,0 +1,10 @@
+# snowflake_config.toml
+
+[snowflake]
+username = "poc"
+password = "Poc@3214"
+account = "byzfefs-pd02178"
+warehouse = "COMPUTE_WH"
+database = "STREAM_SUPERSTORE_PKG"
+schema = "SHARED_DATA"
+ 

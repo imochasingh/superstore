@@ -1,0 +1,9 @@
+{
+    "account": "byzfefs-pd02178",
+    "username": "poc",
+    "role": "accountadmin",
+    "password": "Poc@32143",
+    "warehouse": "COMPUTE_WH",
+    "database": "STREAM_SUPERSTORE_PKG",
+    "schema": "SHARED_DATA"
+  }
