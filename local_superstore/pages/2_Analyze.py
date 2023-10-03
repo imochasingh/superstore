@@ -7,7 +7,7 @@ import sql
 
 # Adjust the width of the Streamlit page
 st.set_page_config(
-    page_title=":bar_chart: Raj's Superstore Analysis by Pygwalker ",
+    page_title="Raj's Superstore Analysis by Pygwalker ",
     page_icon="🌀",
     layout="wide"
 )
