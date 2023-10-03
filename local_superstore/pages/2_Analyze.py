@@ -13,6 +13,7 @@ st.set_page_config(
  
 # Add Title
 st.title("Self Analysis")
+st.write("wait for few seconds it will take some time to boot ")
 
 def topProduct():
     conn.cur.execute(sql.allResult)
